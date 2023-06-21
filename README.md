@@ -1,6 +1,12 @@
 # Patient Diabetes Dataset Cleaning
 This repository provides information about patients with diabetes. The dataset requires cleaning and preparation to ensure accurate and reliable analysis.
+<pre>
 
+
+
+
+   
+</pre>
 # Dataset Description
 The "patient_diabetes_unclean" dataset includes various attributes related to patients with diabetes, such as age, gender, medical history, treatment details, and health indicators. However, the dataset contains inconsistencies, missing values, duplicates, and outliers that need to be addressed.
 
